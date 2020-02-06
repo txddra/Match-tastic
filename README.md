@@ -1,7 +1,13 @@
 # C R I N g E
- ## the App where you can test the compatibility of you and your crush.
 
-   lets __find__ out
+
+### C - CHARMINGS
+### R - REWARDING
+### N - NICE
+### G - GRACEFULS
+### E - EXQUISITE
+   
+ ## the App where you can test the compatibility of you and your crush.
 ![pensive](https://i.ytimg.com/vi/spH1AlKHDog/maxresdefault.jpg)   
       **Step right up**
 - Just input your name
