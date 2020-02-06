@@ -9,13 +9,14 @@
    
  ## the App where you can test the compatibility of you and your crush.
 ![pensive](https://i.ytimg.com/vi/spH1AlKHDog/maxresdefault.jpg)   
-      **Step right up**
+  
 - Just input your name
 - Input the name of your crush
-
+**and in no time**
+you'll know 
 ### Is this relationship meant to be?
-Our system will calculate your compatibility based on our unique "Match-o-meter" algorithm.
-###  Know in no time whether your crush is worth the chase,or should you run for the hills?
+Our system will calculate your compatibility based on our unique "Cringe-o-meter" algorithm.
+###  Know in no time whether your crush is worth the chase, or if you should run for the hills.
 
 
  
