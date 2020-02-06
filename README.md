@@ -1,4 +1,4 @@
-# Match-tastic
+# C R I N g E
  ## the App where you can test the compatibility of you and your crush.
 
    lets __find__ out
