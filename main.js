@@ -1,4 +1,4 @@
-matchtasic = (name, name2) => {
+cringe = (name, name2) => {
 
 
     let letter = /[a-zA-Z]/
@@ -8,7 +8,7 @@ let randomnumber = Math.floor(Math.random()*101)
 
 let prediction = name + ' & ' + name2 + " have a " + randomnumber + "% Match-tastic rating, I suggest you"
 
-
+    
 if (name.match(letter) === null ) {
  return 'thats not a name u idiot'
 }
@@ -57,3 +57,7 @@ if (randomnumber === 0){
 }
     
 }
+if (typeof calculate === 'undefined') {
+    calculate = undefined;
+  }
+module.exports = cringe;
