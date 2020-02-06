@@ -2,7 +2,7 @@
  ## the App where you can test the compatibility of you and your crush.
 ### Is this relationship meant to be?
    lets __find__ out
-![pensive](https://media.gettyimages.com/photos/wondering-picture-id188016199)   
+![pensive](https://i.ytimg.com/vi/spH1AlKHDog/maxresdefault.jpg)   
       **Step right up**
 - Just input your name
 - Input the name of your crush
